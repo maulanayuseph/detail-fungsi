@@ -10,6 +10,12 @@ import { Course } from './model/course';
 export class AppComponent {
 
   courses = COURSES;
+  startDate = new Date(2000,9,11)
+  desc   = COURSES[0].description
+  price  = 9.99
+  rate   = 0.67
+  course   = COURSES[0]
+  
 
   coreCourse   = COURSES[0];
 
