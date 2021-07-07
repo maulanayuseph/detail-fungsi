@@ -3,6 +3,9 @@
 - ngIf
 - ngFor
 - ngClass
+- ngStyle
+- ngSwitch
+- pipe
 - dummy-data
 - [class]/assets/styles.css
 - memanggil fungsi dari ts ke html
